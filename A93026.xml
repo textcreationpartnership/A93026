@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two seasonable discourses concerning this present Parliament.</title>
+            <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93026</idno>
+            <idno type="STC">Wing S2906A</idno>
+            <idno type="STC">ESTC R183788</idno>
+            <idno type="EEBO-CITATION">45097946</idno>
+            <idno type="OCLC">ocm 45097946</idno>
+            <idno type="VID">171522</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171522)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2576:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two seasonable discourses concerning this present Parliament.</title>
+                  <author>Shaftesbury, Anthony Ashley Cooper, Earl of, 1621-1683.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Oxford, :</pubPlace>
+                  <date>printed in the year, 1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Shaftesbury by Wing.</note>
+                  <note>Printer's device (McK. 362) on t.p.</note>
+                  <note>Imperfect: lacks p. 11-14.</note>
+                  <note>Reproduction of original in the Jesus College Library (Cambridge, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171522:1"/>
+            <pb facs="tcp:171522:1" rendition="simple:additions"/>
+            <p>TWO SEASONABLE DISCOURSES Concerning this preſent Parliament.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed in the Year, 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171522:2"/>
+            <pb n="1" facs="tcp:171522:2" rendition="simple:additions"/>
+            <head>The Debate or Arguments for Diſ<g ref="char:EOLhyphen"/>ſolving this preſent Parliament, and the calling frequent and new Parliaments.</head>
+            <head type="sub">As they were delivered in the Houſe of Lords, <date>
+                  <hi>November the</hi> 20th. 1675.</date>
+            </head>
+            <p>THat it is according to the Conſtitution of the <hi>Government,</hi> the ancient Laws and Statutes of this <hi>Realm,</hi> that there ſhould be frequent and new <hi>Parliaments,</hi> and the practice of all Ages, till this laſt, hath been accordingly: <hi>Parliaments,</hi> both long before and after the Conqueſt, were held <hi>Three times a year,</hi> viz. <hi>Eaſter, Whit<g ref="char:EOLhyphen"/>ſontide,</hi> and <hi>Chriſtmas,</hi> during the ſpace of <hi>Eight Days</hi> for each time, and ſo continued with ſome variations, as to the times of Calling, and length of Holding; but always very ſhort untill the Reign of <hi>Ed.</hi> 3. in the <hi>fourth year</hi> of whoſe Reign there was a Law made, <hi>That Parliaments ſhould be holden every year once, or more often,</hi> and how this Law is to be underſtood, whether of a New Parliament every Year, or calling the Old, is moſt manifeſt, by the practice not onely of all the Ages before, but of ſome Hundred or Years ſince that Law: Prorogations or Long Adjournments, be<g ref="char:EOLhyphen"/>ing a thing neve heard of untill latter Years.</p>
+            <p>And it is moſt unreaſonable, that any particular number of Men ſhould for many Years ingroſs ſo great a Truſt of the People, as to be their Repreſentatives in the <hi>Houſe of Commons;</hi> And that all other the Gentry; and the Mem<g ref="char:EOLhyphen"/>bers
+<pb n="2" facs="tcp:171522:3"/>of <hi>Corporations</hi> of the ſame Degree and Quality with them, ſhould be ſo long excluded. Neither is it agreeable with the nature of Repreſentatives to be continued for ſo long a time; and thoſe that <hi>chooſe</hi> them, not to be allowed frequent opportunity of changing the hands, in which they are obliged to put ſo great a truſt. The mutual correſpon<g ref="char:EOLhyphen"/>dence and Intereſts of thoſe who <hi>chooſe</hi> and are <hi>choſen,</hi> ad<g ref="char:EOLhyphen"/>mitting of great variations in length of time. How many in this preſent <hi>Houſe</hi> of <hi>Commons</hi> are there, whoſe buſineſs and acquaintance has not given them the occaſion of the correſpondence of one Letter, (for theſe many Years) with any <hi>Perſon</hi> of thoſe places for whom they ſerve? How many may there be in future Parliaments, if continued as long as This, that may be <hi>Proteſtants</hi> when they are <hi>choſen,</hi> and yet may come in ſo many Years juſtly to be ſuſpected to have changed their <hi>Religion?</hi> Nay, How many in this preſent Parliament are there, who were <hi>choſen</hi> by the <hi>People</hi> when they were of the ſame adequate Intereſt with them, and in length of time, by the Favour and Goodneſs of the <hi>Prince,</hi> and their own great Merits, are become Officers in the <hi>Court,</hi> and about the <hi>Revenue?</hi> This is not ſpoken to re<g ref="char:EOLhyphen"/>flect on <hi>them,</hi> for many of <hi>them</hi> have behaved themſelves very worthy of thoſe <hi>places;</hi> but yet themſelves cannot ſay, that they are equally as free to act for thoſe that <hi>chooſe them,</hi> as they were before: Nor are they of the ſame <hi>Intereſt,</hi> as when they were <hi>choſen;</hi> for now they gain, and have the advantage by the <hi>Peoples payments:</hi> And if they ſhould ſay, <hi>They are the ſame Men they were,</hi> We may call their <hi>Fellow Members</hi> that have ſate with them to witneſs, whether the <hi>Proverb</hi> be not true, that <hi>Honores mutant mores,</hi> whether they have the ſame <hi>Opinion,</hi> and the ſame <hi>Freedom</hi> they had be<g ref="char:EOLhyphen"/>fore. Nay, may it not be ſaid without offence, that even in this <hi>Houſe</hi> of <hi>Commons,</hi> there are not a few, who, when they were <hi>choſen,</hi> were lookt upon as <hi>Men of Eſtates;</hi> and are either ſince grown or diſcovered to be of that <hi>indigent condition,</hi> that they are much fitter to receive the <hi>publick maintenance,</hi> then give the <hi>publick money;</hi> and it may be charitably ſuppoſed, that thoſe <hi>Gentlemen</hi> are ſo modeſt, as
+<pb n="3" facs="tcp:171522:3" rendition="simple:additions"/>to be willing to lay down, if they could, the <hi>publick Truſt.</hi> But 'tis moſt certain, that thoſe <hi>places</hi> they <hi>ſerve</hi> for, would not be willing to continue them in it. There is no queſtion, but 'tis the <hi>Kings</hi> undiſputed <hi>Prerogative</hi> to call and end <hi>Par<g ref="char:EOLhyphen"/>liaments</hi> when he pleaſe, and no man, nor number of men can limit him a time; but the greateſt <hi>Prince</hi> cannot avoid the being limited by the nature of things; Repreſentatives of the <hi>People</hi> are neceſſary to the making Laws, and there is a time when it is morally demonſtrable; that men ceaſe to be Repreſentatives, there heing Circumſtances and Pro<g ref="char:EOLhyphen"/>prieties that diſtinguiſh every thing, as well as <hi>Perſon</hi> in the <hi>World:</hi> So that to conclude this head, We Owe the <hi>Prince</hi> the obſervance of his <hi>time</hi> and <hi>place,</hi> both for <hi>calling</hi> and <hi>du<g ref="char:EOLhyphen"/>ration</hi> of <hi>Parliaments,</hi> and the <hi>Prince</hi> owes us, not onely the frequencies of <hi>Parliaments,</hi> but that our Repreſentations ſhould be preſerv'd to us in <hi>them.</hi>
+            </p>
+            <p>And further, if you conſider the conſtitution of our <hi>Government,</hi> where the <hi>King</hi> as <hi>Head</hi> (from whom all the vital and animal Spirits are diffuſed through the Body) has the care of <hi>all,</hi> whoſe Intereſt is to ſeek the welfare of the whole; all being his, the <hi>ſtrength</hi> of the Nation being his <hi>ſtrength,</hi> the <hi>riches</hi> his <hi>riches,</hi> the <hi>glory</hi> and <hi>honour,</hi> his <hi>glory</hi> and <hi>honour,</hi> and ſo on the contrary; But leaſt paſſion miſtake flattery, or the ill deſigns of thoſe about the <hi>Prince,</hi> ſhould make him grow croſs to his Real, and follow a deſtructive imaginary Intereſt: There is an Eſtate of Hereditary <hi>No<g ref="char:EOLhyphen"/>bility,</hi> who are by Birth-right the <hi>Councellors</hi> of the <hi>King<g ref="char:EOLhyphen"/>dom,</hi> and whoſe Intereſt and Buſineſs it is, to keep the Bal<g ref="char:EOLhyphen"/>lance of the <hi>Government</hi> ſteady, that the Favourites and great Officers, exceed not their bounds, and oppreſs the People, that Juſtice be duely Adminiſtred, and that all parts of the <hi>Government</hi> be preſerved entire; Yet ever Theſe may grow inſolent (a Diſeaſe <hi>Greatneſs</hi> is liable to) or may by <hi>Offices, Dependencies, hopes</hi> of <hi>Preferment,</hi> and o her accidents, become, as to the major part of them, ra her the obſequious flatterers of the Court, then true ſuppo<g ref="char:EOLhyphen"/>ters of the publck and <hi>Engliſh Intereſt,</hi> and therefore the Excellence of our <hi>Government,</hi> affords us another Eſtate of
+<pb n="4" facs="tcp:171522:4"/>Men, which are the <hi>Repreſentatives</hi> of the Free-holders, Ci<g ref="char:EOLhyphen"/>ties, principal Burroughs, and Corporations of <hi>England,</hi> who by the Old Law, were to be new choſen once a year, if not oftner, ſo that they perfectly gave the ſence of thoſe that <hi>choſe</hi> them, and were the ſame thing as if <hi>thoſe</hi> were preſent that <hi>choſe,</hi> they ſo newly coming from <hi>them,</hi> and ſo quickly returning to give an account of their Fidelity, under the penalty of ſhame, and no further Truſt.</p>
+            <p>Thus you have in our <hi>Engliſh Government,</hi> the <hi>Houſe of Commons</hi> affording the <hi>Sence,</hi> the <hi>Mind,</hi> the <hi>Information,</hi> the <hi>Complaints,</hi> the <hi>Grievances,</hi> and the <hi>deſires</hi> of all thoſe People for whom they ſerve, throughout the whole Nation. The People are thus ſecure, no Laws can be made, nor Mo<g ref="char:EOLhyphen"/>ney given, but what themſelves, though at home, fully con<g ref="char:EOLhyphen"/>ſent and agree to. The <hi>Second Eſtate</hi> in this <hi>Government,</hi> is the <hi>Lords,</hi> who are the <hi>Councill,</hi> the <hi>Wiſdom,</hi> and <hi>Judgment</hi> of the <hi>Nation,</hi> to which their Birth, Education, and con<g ref="char:EOLhyphen"/>ſtant imployment, being the ſame in every Parliament, pre<g ref="char:EOLhyphen"/>pares and fits them. The laſt, and ſupream of all, is the <hi>King,</hi> One who gives Life and Vigour to the proceedings of the other Two; The Will and Deſires of the People, though approved by the wiſdom and Judgment of the <hi>Lords,</hi> are Abortive, unleſs he bids them be an Act.</p>
+            <p>Humane reaſon can hardly contrive a more excellent Go<g ref="char:EOLhyphen"/>vernment. But if you will alter this Government, in any of the Three Parts of it, the diſorders and Inconveniencies incident to the nature of ſuch alteration, muſt neceſſarily follow; As for inſtance, the long continuance of any ſuch as are entruſted for others, eſpecially of ſuch as have ſo great a power over the Purſe of the Nation, muſt neceſſarily produce <hi>Caballs,</hi> and <hi>Parties,</hi> and the carrying on of private <hi>Intereſts</hi> and <hi>Court-Factions,</hi> rather then the <hi>publick good,</hi> or the true <hi>Intereſt</hi> either of the <hi>King</hi> or <hi>Kingdom.</hi> How vaſtly is the priviledge of a <hi>Parliament man</hi> encreaſed ſince the middle of the Reign of <hi>H.</hi> 8.? Before, it was ſeveral times agreed by all the <hi>Judges,</hi> and obſerved as the Law, That a Member and his Servants, were exempted onely from <hi>Arreſts</hi> and <hi>Outwlaries,</hi> but might be <hi>impleaded, ſued,</hi> and <hi>Attached</hi>
+               <pb n="5" facs="tcp:171522:4" rendition="simple:additions"/>by his <hi>Land</hi> and <hi>Goods;</hi> yet now they muſt not be <hi>ſued</hi> in any <hi>Caſe,</hi> nor diſpoſſeſſed of any thing during the time of <hi>Priviledge;</hi> nay, theſe two laſt <hi>Seſſions</hi> the <hi>Priviledg</hi> muſt ex<g ref="char:EOLhyphen"/>tend to exempt them even from the <hi>Judicature of Parliament</hi> it ſelf: As alſo before the ſame <hi>King's Reign</hi> the Houſe of <hi>Commons</hi> never thought of <hi>Judicature,</hi> as being in the nature of their Conſtitution uncapable of it; But ſince they are not only become <hi>Judges</hi> of their own <hi>Priviledges,</hi> condemning and impriſoning their fellow-<hi>Subjects</hi> at pleaſure, and with<g ref="char:EOLhyphen"/>out an <hi>Oath,</hi> and alſo <hi>Judges</hi> of all <hi>Elections,</hi> by which very often <hi>they,</hi> and not the <hi>places,</hi> chuſe their <hi>fellow-members:</hi> But now 'tis come to that, that the <hi>Houſe of Commons</hi> paſs ſentence on the <hi>Lords</hi> proceedings, make new crimes, and add Preinſtruments to them by their own Authority; If you will ask the reaſon of this change, 'tis plain that <hi>Parlia<g ref="char:EOLhyphen"/>ments</hi> began in <hi>Hen.</hi> 8's time to be longer than they ought, That Prince knowing that <hi>long Parliaments</hi> were fitted to make great Changes, <hi>they</hi> have been too frequent ſince, but never of that length as <hi>this;</hi> Beſides all this, the long con<g ref="char:EOLhyphen"/>tinuance of <hi>Repreſentatives</hi> renders them liable to be <hi>corrup<g ref="char:EOLhyphen"/>ted</hi> and won off from the <hi>Publique-Interest;</hi> it gives them time to ſettle their <hi>Cabals</hi> and <hi>Intereſt</hi> at <hi>Court,</hi> and takes away the great Security the <hi>Nation</hi> has; that if it be poſſible to happen that the <hi>Spiritual Lords</hi> becauſe of their great de<g ref="char:EOLhyphen"/>pendence on the <hi>Crown,</hi> the <hi>Popiſh Lords</hi> being under the preſſure of ſo ſevere Laws, together with the <hi>Court Lords</hi> and great <hi>Officers</hi> ſhould in any future Age make up a greater number of the <hi>Houſe of Lords,</hi> and ſhould paſs things very pre<g ref="char:EOLhyphen"/>judicial to the <hi>Publick,</hi> yet all ſhould prove ineffectual, and the <hi>Nation</hi> remain ſafe in an <hi>Houſe of Commons</hi> lately choſen that have not had time to learn new <hi>Sentiments,</hi> or to put off their old <hi>Principles</hi> at a good Market. How great has been the modeſty of this preſent <hi>Houſe of Commons,</hi> that having bad the <hi>Purſe</hi> of the <hi>Nation</hi> thus long in their hands, as being thoſe that firſt begun the Grants of <hi>Subſidies and Aids</hi> to the <hi>King,</hi> and ſo by conſequence have all the Addreſſes made to <hi>them,</hi> when ever the wants of the <hi>Crown</hi> (which in this active <hi>Age</hi> are very often) require it, that they have not made uſe
+<pb n="6" facs="tcp:171522:5"/>of it to the prejudice of the <hi>Publick,</hi> or to their own advan<g ref="char:EOLhyphen"/>tage; It was a very high Temptation, and might eaſily have rendered them in their own Opinion more than <hi>Lords,</hi> and they are rather to be commended that they inſiſted on no higher Terms with the <hi>Lords Houſe,</hi> than wondered at for what they did; Conſidering the matter, ground, and the circumſtances wherein they ſtood, and yet they were certainly miſtaken, and not a little forgot themſelves, when they would not allow the <hi>Lords Houſe</hi> a power of leſſening the <hi>Summs</hi> in any <hi>Bill</hi> of <hi>Subſidie</hi> or <hi>Aid</hi> that they had once ſet; which was not only directly contrary to the <hi>Intereſt</hi> of the <hi>People</hi> that choſe them, but againſt the <hi>ancient</hi> and expreſs <hi>Rule</hi> and <hi>Cuſtom</hi> of <hi>Parliament,</hi> whereby it is clear if the <hi>Commons</hi> grant <hi>five Sub<g ref="char:EOLhyphen"/>ſidies,</hi> and the <hi>Lords</hi> agree but to <hi>four,</hi> that <hi>Bill</hi> of <hi>Subſidie</hi> need not be ſent down to the <hi>Commons</hi> for their conſent to ſuch an alteration. And they certainly were grown very high in their own Opinion, and had a very low eſteem for the <hi>Lords,</hi> when they neglected the ſafety of their beſt Friends in that Houſe, and did almoſt with ſcorn refuſe the paſſing of the <hi>Bill</hi> for the more fair and equal <hi>Tryal of Peers,</hi> which in ſeveral <hi>Seſſions</hi> was ſent down to them. How great were the apprehenſions of all ſober and wiſe Men at every meeting of this preſent <hi>Parliament</hi> during theſe late <hi>years,</hi> and how much is to be aſcribed to the goodneſs of our <hi>Prince,</hi> and to the vertue of the <hi>Members</hi> of this preſent <hi>Houſe of Commons,</hi> that <hi>Honours, Offices, Penſions, Money, Imployments</hi> and <hi>Gifts</hi> had not been beſtowed and accepted, and the <hi>Government,</hi> as in <hi>France, Denmark</hi> and other Countries, made <hi>abſolute</hi> and at the <hi>will</hi> of the <hi>Prince?</hi> How eaſie this may be done in future Ages under ſuch Princes, and ſuch an Houſe of Commons as may happen, if long and continued <hi>Parliaments</hi> be allowed for <hi>Law,</hi> may be made ſome meaſure of by this, where though the <hi>Prince</hi> had no deſign, and the Members of the <hi>Houſe of Commons</hi> have ſhewed ſo great Candor and Self-denial, yet the beſt Obſervers are apt to think that we owe it to the ſtrong and oppoſite <hi>Factions</hi> at <hi>Court,</hi> that many things of great Alterations have not paſſed.</p>
+            <pb n="7" facs="tcp:171522:5" rendition="simple:additions"/>
+            <p>And moreover, it cannot be paſſed over with ſilence, nor conſidered without great thoughts of heart, to what a price a Member of the Houſe of Commons place is come; In for<g ref="char:EOLhyphen"/>mer times when <hi>Parliaments</hi> were ſhort and frequent, The <hi>Members</hi> conſtantly received their <hi>wages</hi> both of their <hi>Coun<g ref="char:EOLhyphen"/>ties</hi> and <hi>Burroughs;</hi> many of the poorer <hi>Burroughs</hi> petitioned to be excuſed from ſending Members, as not being able to bear their charge; and were ſo: Laws were made in favour of the Gentry, that <hi>Corporations</hi> ſhould compel none but their <hi>Freemen</hi> of their own <hi>Town</hi> to ſerve for them; Nay you ſhall find in all the ancient <hi>Returns</hi> of <hi>Writs</hi> for <hi>Knights</hi> of the <hi>Shires,</hi> their Sureties for their appearance returned with them: But now the caſe is altered, 1500 <hi>l.</hi> and 2000 <hi>l.</hi> and lately 7000 <hi>l.</hi> is a price Men pay to be intruſted: 'Tis to be hoped the Charity of thoſe worthy Perſons, and their Zeal for the Publique Intereſt has induced them to be at this Expence; But it were better to be otherwiſe, and there is a ſcurvy Eng<g ref="char:EOLhyphen"/>liſh Proverb, <hi>That Men that buy dear, cannot live by ſelling cheap.</hi> And beſides all theſe, the very <hi>priviledge</hi> of the Members, and of thoſe they protect in a Parliament of ſo long duration, is a preſſure that the Nation cannot well ſup<g ref="char:EOLhyphen"/>port it ſelf under; So many thouſand <hi>Suits of Law</hi> ſtopt, ſo vaſt a <hi>Sum of Money</hi> withheld from the right owners, ſo great a quantity of <hi>Land</hi> unjuſtly <hi>poſſeſſed,</hi> and in many Caſes the length of time ſecuring the <hi>poſſeſſion,</hi> and creating a <hi>Title;</hi> And 'tis an Obſervation not unworthy the making, that all this extent of <hi>Priviledge</hi> beyond its due bounds has firſt riſen from the Members of the <hi>Houſe of Commons;</hi> That <hi>Houſe</hi> to this day pretends to <hi>forty days priviledge</hi> before and after <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> the <hi>Houſe of Lords</hi> but <hi>twenty,</hi> and yet the <hi>priviledge of Parliament</hi> is the ſame to both: and if the <hi>Houſe of Com<g ref="char:EOLhyphen"/>mons</hi> obtain their <hi>forty days</hi> to become <hi>Law</hi> and <hi>Cuſtom,</hi> the <hi>Lords</hi> will certainly enjoy the ſame <hi>priviledge;</hi> But the cure of this Evil is very eaſy in <hi>frequent</hi> and <hi>ſhort Parliaments,</hi> The Members will affect no larger <hi>priviledges</hi> than are neceſſary and uſeful to them, for ſuch as oppreſs and injure others can<g ref="char:EOLhyphen"/>not expect a <hi>ſecond choice,</hi> and the preſent time is but ſhort.</p>
+            <pb n="8" facs="tcp:171522:6"/>
+            <p>To all this there are <hi>two Objections</hi> that make a great ſound, but have really nothing of weight in them; The <hi>firſt objecti<g ref="char:EOLhyphen"/>on</hi> is, <hi>That the Crown is in danger if you call a new Parliament.</hi> If thoſe men be in earneſt that urge this, it were to be wiſhed they would conſider well what are the Men are likely to be choſen, and they are not difficult to be gueſt at through the whole Kingdom, Men of <hi>Quality,</hi> of <hi>Eſtates,</hi> and of the <hi>beſt <g ref="char:V">Ʋ</g>nderſtanding;</hi> Such will never affect <hi>change,</hi> or diſturb the <hi>Kings Government:</hi> A <hi>New Parliament</hi> will be the <hi>Nation,</hi> and that will never ſtick at ſmall matters to render themſelves ac<g ref="char:EOLhyphen"/>ceptable to their <hi>Prince.</hi> Would the <hi>King</hi> have acquaintance with his <hi>People? this is his way.</hi> Would he have yet more the love of his People? <hi>Thus he is ſure to have it.</hi> Would the <hi>King</hi> have a conſiderable ſum of <hi>Money</hi> to pay his <hi>Debts</hi> and put him at eaſe? <hi>Thus he cannot fail of it,</hi> nay he ſhall have it as a pledge of endearment between <hi>him</hi> and his <hi>people,</hi> they give it themſelves, and they know the <hi>King</hi> receives it as from them. The <hi>Engliſh Nation</hi> are a generous <hi>people,</hi> and have at all times expreſt themſelves ready to <hi>ſupply</hi> even the <hi>Humours,</hi> and <hi>Exceſſes</hi> of their <hi>Princes,</hi> and ſome of the beſt beloved <hi>Princes</hi> we have had were ſuch as by <hi>Warr,</hi> or otherwiſe put us to moſt <hi>Expence:</hi> Witneſs <hi>Edward</hi> the 1ſt, <hi>Edward</hi> the 3d, and <hi>Henry</hi> the 5th; but then always they were ſatisfied that the <hi>Honour</hi> of the <hi>Nation</hi> was preſerved, and what ever pri<g ref="char:EOLhyphen"/>vate or perſonal <hi>Exceſſes</hi> the <hi>Prince</hi> had, yet the <hi>Nation</hi> was ſecure, there was no deſign upon them, neither ſhould their <hi>money</hi> or their <hi>ſtrength</hi> be uſed againſt them; <hi>All this is the happineſs of our preſent ſtate under our moſt gracious King.</hi> But how ſhall the People know and be ſecure it is ſo? but by thoſe they annually ſend up to <hi>Parliament</hi> from amongſt themſelves; Whereas if the <hi>King</hi> ſhould have a great <hi>Sum of Money</hi> given by this <hi>Parliament,</hi> it would be lookt upon as <hi>theirs,</hi> not as the <hi>Peoples</hi> gift, and the beſt of Men with their Circum<g ref="char:EOLhyphen"/>ſtances cannot avoid the ſuſpition, when they give much to have received ſome; and men will not ſo chearfully undergo the Burthen of a <hi>Tax,</hi> and their own Wants in the time of this general Poverty, when they apprehend others have the Thanks, and perhaps the Reward of their Sufferings.</p>
+            <pb n="9" facs="tcp:171522:6" rendition="simple:additions"/>
+            <p>The <hi>ſecond Objection</hi> is with great apprehenſions and paſ<g ref="char:EOLhyphen"/>ſion urged by the <hi>Biſhops; That the Church and this Parlia<g ref="char:EOLhyphen"/>ment fall together.</hi> Which Objection how vain it is you will eaſily confeſs, if (as was ſaid before) the perſons that are like to be choſen be conſidered; The diſſenting <hi>Proteſtants</hi> may very probably find more favour and eaſe, but the <hi>Church</hi> can never ſuffer, either in her <hi>Lands</hi> or <hi>Dignities</hi> ſhe now enjoys, by an <hi>Houſe of Commons</hi> conſiſting of Men of the beſt (Quality and Eſtates in <hi>England,</hi> as the next certainly will do: But, on the other ſide, what do the <hi>Biſhops</hi> mean by this Aſſertion? moſt certainly it is not their intent to make the <hi>Intereſt</hi> of the <hi>Church</hi> and the <hi>Nation</hi> direct oppoſit and incon<g ref="char:EOLhyphen"/>ſiſtent one with the other; and yet in ſaying this they con<g ref="char:EOLhyphen"/>feſs, that this <hi>Houſe of Commons</hi> are not the true <hi>Repreſenta<g ref="char:EOLhyphen"/>tives</hi> of thoſe they ſerve for; that the People and they are of different minds; that if they were to chooſe again, they would chooſe other men of other ſentiments; And it muſt be confeſſed that what ever is not natural is by force, and muſt be maintained by force. A <hi>ſtanding Parliament</hi> and a <hi>ſtanding Army</hi> are like thoſe <hi>Twins</hi> that have their lower parts united, and are divided only above the <hi>Navel;</hi> they were born together, and cannot long outlive each other. Certainly that man is no friend to the <hi>Church</hi> that wiſhes it a <hi>third</hi> incorporated with thoſe two.</p>
+            <p>To conclude this Debate, the continuance of this <hi>preſent Parliament</hi> any longer is unpracticable; the breach this <hi>Houſe of Commons</hi> has made upon the <hi>Lords</hi> is as unlikely to be repaired with theſe preſent Men, as it is to be renewed by another <hi>Houſe of Commons</hi> of a <hi>new Election;</hi> If you con<g ref="char:EOLhyphen"/>sider the <hi>Power,</hi> the <hi>Courtſhip,</hi> and the <hi>Addreſſes</hi> that theſe Men have for ſo many years enjoyed and received, they may almoſt be forgiven if they think themſelves greater Men than the <hi>Lords</hi> in the higher Houſe; beſides it is very well known that many of the ableſt and moſt worthy Patriots amongſt them have carried this Difference to the greateſt height with this only deſign, that by this means they might deliver the Nation from the danger and preſſure of a long continued
+<pb n="10" facs="tcp:171522:7"/>Parliament: Whereas a new choſen <hi>Houſe of Commons,</hi> eſpe<g ref="char:EOLhyphen"/>cially if it were fixt, and known that it could not remain long, could not be apprehended to have any affectation to exceed their juſt bounds, nor to renew a Conteſt, where the <hi>Intereſt</hi> of the <hi>People</hi> is manifeſtly on the <hi>Lords</hi> ſide; for be<g ref="char:EOLhyphen"/>ſides the undoubted Right and conſtant Practice that the <hi>Lords</hi> enjoy in the Caſe of <hi>Appeals</hi> from <hi>Courts of Equity,</hi> all other Expedients when will conſidered, give the <hi>Crown,</hi> the <hi>Favourites</hi> and <hi>Miniſters</hi> the power over every mans <hi>Eſtate</hi> in <hi>England.</hi>
+            </p>
+            <p>Thus you ſee 'tis the <hi>Intereſt</hi> of all ſorts of men to have a <hi>New Parliament;</hi> This will give the <hi>King</hi> conſtant and ne<g ref="char:EOLhyphen"/>ver-failing <hi>Supplies</hi> with the hearts and good-will of his People: This will not only preſerve the <hi>Church</hi> in the Ho<g ref="char:EOLhyphen"/>nours, Dignities and Revenues ſhe now enjoys, and make her the <hi>Protectrix</hi> and <hi>Aſylum</hi> of all the <hi>Proteſtants</hi> through <hi>Europe,</hi> but will alſo encreaſe the Maintenance of the <hi>Miniſtry</hi> in <hi>Corporations</hi> and great <hi>Towns,</hi> which is now much wanting, and of great concern to the <hi>Church.</hi> This will procure the diſſenting <hi>Proteſtants</hi> Eaſe, Liberty, and Protection: The <hi>Papiſts</hi> may juſtly expect by this to be delivered from that grievous preſſure of <hi>penal Laws</hi> they lie under, if they can be contented with being deprived of acceſs to <hi>Court,</hi> bearing <hi>Offices</hi> or <hi>Arms:</hi> The great <hi>Officers</hi> and <hi>Miniſters</hi> may under this enjoy their <hi>places</hi> undiſturbed and in quiet, and be ſecure with a moderate Conduct, and reaſonable Condeſcentions to attain that in a <hi>new Parliament</hi> which they have by experience found is impoſſible in the <hi>old.</hi> In a word, there is not to be imagined an <hi>Interest</hi> againſt this, unleſs there be an invete<g ref="char:EOLhyphen"/>rate <hi>party</hi> ſtill remaining in our World, who to compaſs their Revenge, and repair their broken Fortunes, would hope to ſee the <hi>Act of Oblivion</hi> ſet aſide, and this happy <hi>Monarchy</hi> turned into an <hi>abſolute, Arbitrary, Military Government;</hi> But Charity bids us hope there are no ſuch Men.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_votes">
+            <pb n="15" facs="tcp:171522:7" rendition="simple:additions"/>
+            <head>A List of the Lords who were preſent at the Vote for an Ad<g ref="char:EOLhyphen"/>dreſs to the King for Diſſolving the Parliament, <hi>November</hi> the <hi>20th. 1675.</hi>
+            </head>
+            <list>
+               <head>For the Addreſs.</head>
+               <item>His Royal Highneſs</item>
+               <item>D. of Buckingham</item>
+               <item>M. Wincheſter</item>
+               <item>E. Marſhall, E. Norwich</item>
+               <item>E. Kent</item>
+               <item>E. Dorſett</item>
+               <item>E. Salisbury</item>
+               <item>E. Bridgwater</item>
+               <item>E. Weſtmerland</item>
+               <item>E. Bullingbrooke</item>
+               <item>E. Cheſterfield</item>
+               <item>E. Stamford</item>
+               <item>E. Peterborough</item>
+               <item>E. Mancheſter</item>
+               <item>E Berkes</item>
+               <item>E. Mulgrave</item>
+               <item>E. Scarſdale</item>
+               <item>E. Sunderland</item>
+               <item>E. Clarendon</item>
+               <item>E. Eſſex</item>
+               <item>E. Cardigan</item>
+               <pb n="16" facs="tcp:171522:8" rendition="simple:additions"/>
+               <item>E. Shaftesbury</item>
+               <item>E. Powys</item>
+               <item>Vic. Fauconberg</item>
+               <item>Vic. Hallifax</item>
+               <item>Vic. Yarmouth</item>
+               <item>Vic. Newport</item>
+               <item>Ld. Sandys</item>
+               <item>Ld. Morley</item>
+               <item>Ld. Sturton</item>
+               <item>Ld. Wharton</item>
+               <item>Ld. Peter</item>
+               <item>Ld. Arundell of Warder</item>
+               <item>Ld. Lovelace</item>
+               <item>Ld. Tenham</item>
+               <item>Ld. Mohun</item>
+               <item>Ld. Bellaſis</item>
+               <item>Ld. Carington</item>
+               <item>Ld. Delamere</item>
+               <item>Ld. Townſend</item>
+               <item>Ld. Grey of Rolſton</item>
+               <item>Theſe Lords preſent 41 gave 7 Proxies.</item>
+               <item>48</item>
+            </list>
+            <list>
+               <head>Lords abſent and ſick that gave Proxies for this queſtion.</head>
+               <item>E. Denbeigh</item>
+               <item>Ld. Hollis</item>
+            </list>
+            <list>
+               <head>Other Lords abſent that were for this Addreſs.</head>
+               <item>E. Bedford</item>
+               <item>E. Burlington</item>
+               <item>Ld. Fitzwalter</item>
+               <item>Ld. Ewer.</item>
+               <item>And Others.</item>
+            </list>
+            <list>
+               <head>Againſt the Addreſs.</head>
+               <item>Ld. Keeper</item>
+               <item>Ld. Treaſurer</item>
+               <item>Ld. Privy Seale</item>
+               <item>Ld. Great Chamberlaine</item>
+               <item>E. Northampton</item>
+               <item>E. Briſtoll</item>
+               <item>E. Bath</item>
+               <item>E. Craven</item>
+               <item>E. Alisbury</item>
+               <item>E. Gilford, D. Lauderdale</item>
+               <item>Ld. Windſor</item>
+               <item>Ld. Pawlett</item>
+               <item>Ld. Maynard</item>
+               <item>Ld. Howard of Eaſtcreck</item>
+               <item>Ed. Byron</item>
+               <item>Ld. Lucas</item>
+               <item>Ld V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ughan, E. Carbery</item>
+               <item>Ld. Gerrard</item>
+               <item>Ld Frechvill</item>
+               <item>Ld. Butler, E. of Oſſery</item>
+               <item>Ld. Arundell of Trerice</item>
+               <item>21 Lay Lords</item>
+               <item>13 Biſhops, who were all that were in the Houſe.</item>
+               <item>Theſe 34 Lords gave 16 Proxies.</item>
+               <item>50.</item>
+            </list>
+         </div>
+         <div type="text">
+            <pb n="17" facs="tcp:171522:8" rendition="simple:additions"/>
+            <head>The Proteſtation, with Reaſons of ſeveral Lords for the Diſsolution of this Parliament, entred in the Lords Journal, <hi>November 22. 1675.</hi> the day the Parlia<g ref="char:EOLhyphen"/>ment was Prorogued.</head>
+            <p>WE whoſe Names are under-written, Peers of this Realm, having propoſed, <hi>That an humble Addreſs might be made to His Majeſty from this Houſe, that he would be graciouſly pleaſed to Diſſolve this Parliament:</hi> And the Houſe having carryed it in the Negative, for the Juſtification of our Loyal Intentions towards His Majeſties Service, and of our true reſpect and deference to this Honourable Houſe; and to ſhew that we had no ſiniſter or indirect Ends in this our humble propoſal, Do with all humility herein, ſet forth the grounds and reaſons why we were of opinion that the ſaid <hi>humble Addreſs</hi> ſhould have been made.</p>
+            <p n="1">1. We do humbly conceive, that it is according to the ancient Laws and Statutes of this Realm, that there ſhould be frequent and new Parliaments, and that the practice of ſeveral years, hath been accordingly.</p>
+            <p n="2">2. It ſeems not reaſonable; that any particular number of Men, ſhould for many yea s, ingroſs ſo great a truſt of the People, as to be their Representatives in the Houſe of Com<g ref="char:EOLhyphen"/>mons: And all other the Gentry and the Members of Cor<g ref="char:EOLhyphen"/>porations of the ſame degree and quality with them, ſhould be ſo long excluded. Neither, as we humbly conceive, is it advantagious to the Government; that the Counties, Ci<g ref="char:EOLhyphen"/>ties and Burroughs, ſhould be confined for ſo long a time to ſuch Members as they have once choſen to ſerve for them. The mutual correſpondence and intereſts of thoſe who chooſe and are choſen, admitting of great variations in length of time.</p>
+            <p n="3">3. The long continuance of any ſuch as are intruſted for others, and who have ſo great a power over the purſe of the Nation, muſt in our humble opinion, naturally endanger the producing of Factions and Parties, and the carrying on
+<pb n="18" facs="tcp:171522:9" rendition="simple:additions"/>of particular intereſts and deſigns, rather then the publick Good.</p>
+            <p>And we are the more confirmed in our deſires for the ſaid humble Addreſs, by reaſon of this unhapp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breach fallen out betwixt the tw<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Houſes of which the Houſe of Peers hath not given the leaſt octaſion; they having done nothing but what their A<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tors and Predeceſſors have in all times done; and what is according to their duty, and for the In<g ref="char:EOLhyphen"/>tereſt of the people that they ſhould do; which notwith<g ref="char:EOLhyphen"/>ſtanding the Houſe of Commons have proceeded in ſuch an unpreſidented and extraordinary way, that i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is in our hum<g ref="char:EOLhyphen"/>ble opinion, become altogether unpracticable for the two Houſes, as the Caſe ſtands, jointly to purſue theſe great and good ends for which they were called.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <head>For theſe Reaſons we do enter this our Proteſtation againſt, and Diſſent unto, the ſaid Vote.</head>
+                     <item>Buckingham</item>
+                     <item>Wincheſter</item>
+                     <item>Salisbury</item>
+                     <item>Bridgwater</item>
+                     <item>Dorfett</item>
+                     <item>Weſtmerland</item>
+                     <item>Cheſterfield</item>
+                     <item>Stamford</item>
+                     <item>Berkes</item>
+                     <item>Clarendon</item>
+                     <item>Shaftesbury</item>
+                     <item>Fauconberg</item>
+                     <item>Hallifax</item>
+                     <item>Yarmouth</item>
+                     <item>Newport</item>
+                     <item>Sandys</item>
+                     <item>Wharton</item>
+                     <item>Peter</item>
+                     <item>Mohun</item>
+                     <item>Delamere</item>
+                     <item>Townſend</item>
+                     <item>Grey of Rolſton</item>
+                  </list>
+               </signed>
+Theſe were all the Lords that were in the Houſe early enough to ſign the Proteſtation before the Parliament was Prorogued.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
